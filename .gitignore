@@ -1,0 +1,41 @@
+﻿# Secrets and private data
+.env
+*.env
+*token*
+*secret*
+*credential*
+
+# Data / outputs
+/data/
+/datasets/
+/outputs/
+/artifacts/
+/checkpoints/
+/models/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+*.db
+*.sqlite
+*.xlsx
+*.xls
+*.csv
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
