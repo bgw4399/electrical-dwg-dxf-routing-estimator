@@ -1,6 +1,6 @@
 # Electrical CAD Routing
 
-프로젝트 설명을 **[통합 프로젝트 노트](https://github.com/bgw4399/bgw4399/blob/main/docs/projects/electrical-dwg-dxf-routing-estimator.md)**로 옮겼습니다.
+프로젝트 설명을 [통합 프로젝트 노트](https://github.com/bgw4399/bgw4399/blob/main/docs/projects/electrical-dwg-dxf-routing-estimator.md)로 옮겼습니다.
 
 DWG/DXF 좌표계와 전기 배선 경로·견적 설계.
 
